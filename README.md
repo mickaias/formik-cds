@@ -1,8 +1,23 @@
-# React + Vite
+# Form-React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+  Fiz o form para criar conhecimento com Yup e o Formik
 
-Currently, two official plugins are available:
+# Tecnologias 
+* React⚛️
+* Lib Formik e Yup ✔️
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Veja como é: 
+![Form formik]
+<h1 align="center">
+  <img alt="Form" src="./assets/form.png" />
+</h1>
+
+ ### Instalando dependências do projeto.
+
+  yarn add formik
+  yarn add yup
+
+ ⚡
+
+Feito por <a href="https://www.linkedin.com/in/mickaias-kaw%C3%A3-348340233/">Mickaias Nunes</a>🚀🚀

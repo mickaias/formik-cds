@@ -4,7 +4,7 @@ import FormUse from "./pages/Form"
 function App() {
   
   return (
-    <div>
+    <div className="App">
       <FormUse />
     </div>
   )
